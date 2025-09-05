@@ -1,0 +1,25 @@
+/* generated in /var/www/html/wp-content/themes/gastrobar/framework/modules/error404/custom-styles/custom-styles.php gastrobar_edge_404_header_general_styles function */
+.edgtf-404-page .edgtf-page-header .edgtf-menu-area { background-color: rgba(255, 255, 255, 0) !important;}
+
+/* generated in /var/www/html/wp-content/themes/gastrobar/framework/modules/error404/custom-styles/custom-styles.php gastrobar_edge_404_page_general_styles function */
+.edgtf-404-page .edgtf-content { background-image: url(http://gastrobar.edge-themes.com/wp-content/uploads/2017/12/404_foto.jpg);background-position: center 0;background-size: cover;background-repeat: no-repeat;}
+
+/* generated in /var/www/html/wp-content/themes/gastrobar/framework/modules/footer/admin/custom-styles/footer-custom-styles.php gastrobar_edge_footer_top_general_styles function */
+.edgtf-page-footer .edgtf-footer-top-holder { background-color: #1d1d1d;}
+
+/* generated in /var/www/html/wp-content/themes/gastrobar/framework/modules/footer/admin/custom-styles/footer-custom-styles.php gastrobar_edge_footer_bottom_general_styles function */
+.edgtf-page-footer .edgtf-footer-bottom-holder { background-color: #101010;}
+
+			@media only screen and (max-width: 1024px) {
+			/* generated in /var/www/html/wp-content/themes/gastrobar/framework/modules/header/types/mobile-header/admin/custom-styles/mobile-header-custom-styles.php gastrobar_edge_mobile_logo_styles function */
+.edgtf-mobile-header .edgtf-mobile-logo-wrapper a { height: 50px !important;}
+
+			}
+					@media only screen and (max-width: 480px) {
+			/* generated in /var/www/html/wp-content/themes/gastrobar/framework/modules/header/types/mobile-header/admin/custom-styles/mobile-header-custom-styles.php gastrobar_edge_mobile_logo_styles function */
+.edgtf-mobile-header .edgtf-mobile-logo-wrapper a { height: 50px !important;}
+
+			}
+		/* generated in /var/www/html/wp-content/themes/gastrobar/framework/modules/header/types/top-header/admin/custom-styles/top-header-custom-styles.php gastrobar_edge_header_top_bar_styles function */
+.edgtf-top-bar-background { height: 85px;}
+
